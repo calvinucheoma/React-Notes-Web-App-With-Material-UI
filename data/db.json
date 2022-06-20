@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Emah's Birthday",
+      "details": "August 29th is Emah's Birthday!",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Wake up on time for my night shift",
+      "details": "I need to be up and out of the house by 9PM for my night shift",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Tidy my room!",
+      "details": "I'm going to tidy up my room today!",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the barber",
+      "details": "Pay the barber his urgent 2K this evening",
+      "category": "money",
+      "id": 4
+    }
+  ]
+}
